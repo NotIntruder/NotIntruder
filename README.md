@@ -1,11 +1,13 @@
 ## Hi, I am Intruder.
-
 I'm a Intermediate Software developer from Mumbai, India.
-Owner @ **Perpetual Space**
-Director @ **ArcadeLabs**
-Sales rep. @ **Promotionify**
 
-My profile links are here - [notintruder.github.io/PerpetualWeb](https://notintruder.github.io/PerpetualWeb/).
+*************
+
+Owner @ **Perpetual Space**<br>
+Director @ **ArcadeLabs**<br>
+Sales rep. @ **Promotionify**<br>
+
+### My profile links are here - [PerpetualWeb](https://notintruder.github.io/PerpetualWeb/).
 
 
 ### GitHub Stats
@@ -18,10 +20,8 @@ My profile links are here - [notintruder.github.io/PerpetualWeb](https://notintr
 </a>
 
 *************
-*************
 <br />
 <p align="center">
 <h2> Thanks for reading <h1>
 </p>
-
 
