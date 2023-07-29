@@ -7,6 +7,7 @@
 
 ### ♾️ My profile links are here - [PerpetualWeb](https://notintruder.github.io/PerpetualWeb/).
 
+*************
 
 ### 📊 GitHub Stats
 
@@ -18,3 +19,8 @@
 </a>
 
 *************
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
