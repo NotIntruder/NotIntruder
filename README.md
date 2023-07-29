@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm NotIntruder</h1>
-I'm a Intermediate Software developer from Mumbai, India.<br>
+<h3 align="center">I'm a Intermediate Software developer from Mumbai, India.</h3><br>
 
 - Owner @ **Perpetual Space**<br>
 - Director @ **ArcadeLabs**<br>
@@ -18,6 +18,3 @@ I'm a Intermediate Software developer from Mumbai, India.<br>
 </a>
 
 *************
-
-
-
