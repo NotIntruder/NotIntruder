@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm NotIntruder</h1>
 <h3 align="center">I'm a Intermediate Software developer from Mumbai, India.</h3><br>
-<p style="text-align: center;"> 
+
 - Owner @ **Perpetual Space**<br>
 - Director @ **ArcadeLabs**<br>
 - Sales rep. @ **Promotionify**<br>
@@ -23,5 +23,3 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-</p>
