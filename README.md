@@ -9,7 +9,7 @@
 
 *************
 
-### 📊 GitHub Stats
+<h2 align="center"> 📊 GitHub Stats </h2>
 
 <div align="center">
 <a href="https://github.com/NotIntruder" alt="Go to GitHub profile">
