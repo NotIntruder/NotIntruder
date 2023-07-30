@@ -23,7 +23,3 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/fe196358bd75349ed47ba5c9532b6ffffa586095.svg "Repobeats analytics image")
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
