@@ -26,5 +26,5 @@
 
 *************
 <div align="center">
-![Alt](https://repobeats.axiom.co/api/embed/fe196358bd75349ed47ba5c9532b6ffffa586095.svg "Repobeats analytics image")
+<img src="https://repobeats.axiom.co/api/embed/fe196358bd75349ed47ba5c9532b6ffffa586095.svg" alt="Repobeats analytics image">
 </div>
