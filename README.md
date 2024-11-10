@@ -13,6 +13,9 @@
 
 <div align="center">
 <a href="https://github.com/NotIntruder" alt="Go to GitHub profile">
+    <img src="https://github-readme-stats.vercel.app/api?username=NotIntruder&show_icons=true&theme=tokyonight" alt="Github Stats"/>
+    <br>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotIntruder&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=151515"
         alt="Top languages card" /> 
     <br>
