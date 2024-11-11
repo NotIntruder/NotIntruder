@@ -4,7 +4,7 @@
 - Owner @**[Perpetual Space](https://github.com/perpetualspace)**<br>
 - Director @**[ArcadeLabs](https://github.com/arcadelabs)**<br>
 
-### ♾️ My profile links are here - [PerpetualWeb](https://notintruder.github.io/PerpetualWeb/).
+### ♾️ My profile links are here - [PerpetualWeb](http://perpetualspace.me/PerpetualWeb/).
 
 *************
 
