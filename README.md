@@ -2,7 +2,7 @@
 <h3 align="center">I'm an Intermediate Software developer from Mumbai, India.</h3><br>
 
 - Owner @**[Perpetual Space](https://github.com/perpetualspace)**<br>
-- Director @**[ArcadeLabs](https://github.com/arcadelabs)**<br>
+- Co-Owner @**[MiniMC](https://minimc.in)**<br>
 
 ### ♾️ My profile links are here - [PerpetualWeb](http://perpetualspace.me/).
 
