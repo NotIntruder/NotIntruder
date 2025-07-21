@@ -141,8 +141,6 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NotIntruder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotIntruder&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%">
 
 </div>
@@ -170,22 +168,6 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 ---
 
 <div align="center">
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td>
-
-- 🔭 Working on **innovative web applications**
-- 🌱 Learning **advanced software architecture**
-- 👯 Looking to collaborate on **open source projects**
-- 🤝 Seeking help with **system design patterns**
-- 💬 Ask me about **web development & software engineering**
-- ⚡ Fun fact: **I debug faster with music on! 🎵**
-
-</td>
-<td>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 
