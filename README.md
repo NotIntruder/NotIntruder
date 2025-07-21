@@ -41,8 +41,8 @@ fields_of_interests:
   - "Open Source Projects 🔓"
   - "Community Building 👥"
   
-currently_learning: ["Advanced Algorithms", "Cloud Architecture"]
-hobbies: ["Coding", "Gaming", "Music"]
+currently_learning: ["Advanced Algorithms", "NLP", "Android Developemt [Kotlin]"]
+hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 ```
 
 </td>
