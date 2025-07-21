@@ -28,8 +28,7 @@
 ```yaml
 name: "Intruder"
 located_in: "Mumbai, India 🏙️"
-current_job: "Intermediate Software Developer"
-education: "Self-Taught Developer 📚"
+does: "Intermediate Software Developer"
 
 company:
   - Owner: "Perpetual Space"
