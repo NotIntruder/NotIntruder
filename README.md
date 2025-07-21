@@ -191,10 +191,3 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-<div align="center">
-
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
-
-**Thanks for visiting! Let's build something amazing together!** 🚀
-
-</div>
