@@ -73,7 +73,7 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 </a>
 </td>
 <td align="center" width="50%">
-<img src="https://github.com/NotIntruder.png" width="80" height="80" style="border-radius: 50%;">
+<img src="https://cdn.discordapp.com/avatars/1375863263434248292/46d9362fe5a386dc1289b1bbd4effc8b.webp?size=1024" width="80" height="80" style="border-radius: 50%;">
 <h3>⚡ MiniMC</h3>
 <p><strong>Co-Owner</strong></p>
 <a href="https://minimc.in" target="_blank">
