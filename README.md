@@ -31,7 +31,7 @@ An all-in-one feature-rich Discord bot built on a freemium model. Instead of mak
 - **Smart Features:** Join-to-create voice chats, AI-powered welcomer, and reminders
 - **User Experience:** GUI-driven interactions for a smoother experience
 
-[🔗 Website](https://utilara.net) • [🔗 Invite Bot](https://discord.com/oauth2/authorize?client_id=1436766293662634015&permissions=8&integration_type=0&scope=bot) • _Closed Source_
+[🌐 Website](https://utilara.net) • [🔗 Invite Bot](https://discord.com/oauth2/authorize?client_id=1436766293662634015&permissions=8&integration_type=0&scope=bot) • _Closed Source_
 
 ---
 
@@ -57,8 +57,8 @@ The technical stack had to be optimized heavily since performance is critical fo
 Currently working on a project with **ConfrontAI** (not yet public), but here are some live websites I've built:
 
 **Live Sites:**
-- **[MiniMC](https://minimc.in)** — Main landing page for the Minecraft server
-- **[Utilara](https://utilara.net)** — Discord bot landing page and dashboard
+- **[MiniMC](https://minimc.in)** — The Server's official website
+- **[Utilara](https://utilara.net)** — Official website for the Utilara Discord bot and Dashboard
 - **[Utilara Wiki](https://wiki.utilara.net)** — Documentation and knowledge base
 
 Focused on building fast, responsive sites with clean UX. Each site is optimized for performance and mobile-first design.
@@ -76,13 +76,15 @@ Focused on building fast, responsive sites with clean UX. Each site is optimized
 
 ## Find me around the web
 
-🌐 [Portfolio](http://perpetualspace.me/) • 💼 [GitHub](https://github.com/NotIntruder)
+🌐 [Portfolio](https://www.upwork.com/freelancers/~0196bf9a1fba7cd171)
 
 ---
 
 ## Tech Stack
 
-JavaScript • TypeScript • Astro • Python • Kotlin • C++ • Node.js • PostgreSQL • MongoDB
+**Frontend:** Astro • Nuxt.js • TypeScript • JavaScript  
+**Backend:** Node.js • PostgreSQL • MongoDB • Redis  
+**Mobile/Other:** Kotlin • Java • Python • C/C++
 
 **Tools:** VS Code, IntelliJ IDEA, CLion
 
