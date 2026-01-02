@@ -72,11 +72,19 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 </a>
 </td>
 <td align="center" width="50%">
-<img src="https://cdn.discordapp.com/avatars/1375863263434248292/46d9362fe5a386dc1289b1bbd4effc8b.webp?size=1024" width="80" height="80" style="border-radius: 50%;">
+<img src="https://cdn.discordapp.com/avatars/1375863263434248292/46d9362fe5a386dc1289b1bbd4effc8b.webp" width="80" height="80" style="border-radius: 50%;">
 <h3>⚡ MiniMC</h3>
 <p><strong>Co-Owner</strong></p>
 <a href="https://minimc.in" target="_blank">
 <img src="https://img.shields.io/badge/Visit-Website-orange?style=for-the-badge&logo=firefox" alt="MiniMC">
+</a>
+</td>
+<td align="center" width="50%">
+<img src="https://cdn.discordapp.com/avatars/1436766293662634015/7503cb68d6041f571903cf9965f63f94.webp" width="80" height="80" style="border-radius: 50%;">
+  <h3>Utilara</h3>
+<p><strong>Owner</strong></p>
+<a href="https://utilara.net" target="_blank">
+<img src="https://img.shields.io/badge/Visit-Website-orange?style=for-the-badge&logo=firefox" alt="Utilara">
 </a>
 </td>
 </tr>
