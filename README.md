@@ -63,7 +63,7 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33.3%">
 <img src="https://github.com/perpetualspace.png" width="80" height="80" style="border-radius: 50%;">
 <h3>🌌 Perpetual Space</h3>
 <p><strong>Owner</strong></p>
@@ -71,7 +71,7 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 <img src="https://img.shields.io/badge/Visit-Organization-brightgreen?style=for-the-badge&logo=github" alt="Perpetual Space">
 </a>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33.3%">
 <img src="https://cdn.discordapp.com/avatars/1375863263434248292/46d9362fe5a386dc1289b1bbd4effc8b.webp" width="80" height="80" style="border-radius: 50%;">
 <h3>⚡ MiniMC</h3>
 <p><strong>Co-Owner</strong></p>
@@ -79,7 +79,7 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 <img src="https://img.shields.io/badge/Visit-Website-orange?style=for-the-badge&logo=firefox" alt="MiniMC">
 </a>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33.3%">
 <img src="https://cdn.discordapp.com/avatars/1436766293662634015/7503cb68d6041f571903cf9965f63f94.webp" width="80" height="80" style="border-radius: 50%;">
   <h3>Utilara</h3>
 <p><strong>Owner</strong></p>
