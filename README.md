@@ -1,99 +1,191 @@
-# Hey, I'm Intruder 👋
+<div align="center">
+  
+# 🌟 Welcome 🌟
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Intruder&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-I am a Bachelor of Technology student in Electronics and Computer Science from Mumbai, India. My interest in programming began well before my formal education, driven by curiosity and a desire to build small projects. It started with creating Minecraft plugins to enhance my own gameplay, which eventually led me to develop a strong interest in the underlying technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Intermediate+Software+Developer;Mumbai,+India+🇮🇳;Always+learning+new+things;Passionate+about+code!&font=Fira%20Code&center=true&width=440&height=45&color=00d9ff&vCenter=true&size=18&pause=1000">
+</p>
 
-I am currently most comfortable programming in:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NotIntruder&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/NotIntruder?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="followers" />
+</div>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-I also have some experience with ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) and ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white), but I am less comfortable with them due to limited hands-on project work compared to my primary languages.
-
-I have worked as a freelancer with several notable clients on projects including full-stack web development, Android development, plugin development, and Discord bots. Coming from a multidisciplinary academic background, I have a good understanding of both hardware and software systems. In addition, I co-own a hosting service in India that provides game server hosting, web hosting, and bot hosting services.
-
-**Currently Learning:**
-- CUDA
-- Electronics Designing
-
-## 🚀 Projects I've Built
-
-### Utilara
-**Tech Stack:** Discord.js, Node.js, TypeScript
-
-An all-in-one feature-rich Discord bot built on a freemium model. Instead of making users type commands, Utilara uses a GUI-based interface because honestly, who likes typing commands anyway?
-
-**Features:**
-- **Security First:** Anti-Nuking & Anti-Flooding protection with robust moderation tools
-- **Quality of Life:** High-quality music player, giveaway system, commissions tracking, ticketing & suggestions systems
-- **Smart Features:** Join-to-create voice chats, AI-powered welcomer, and reminders
-- **User Experience:** GUI-driven interactions for a smoother experience
-
-[🌐 Website](https://utilara.net) • [🔗 Invite Bot](https://discord.com/oauth2/authorize?client_id=1436766293662634015&permissions=8&integration_type=0&scope=bot) • _Closed Source_
-
----
-
-### MiniMC
-**Tech Stack:** Java, Spigot/Paper, Redis, MySQL
-
-A Minecraft server where I'm the sole developer and maintainer. Started this as a hobby project with 2 other co-owners who handle marketing and running costs while I tackle all the technical challenges.
-
-This project has honestly been my biggest learning experience. Built several complex systems from scratch because existing plugins were either too slow or didn't exist:
-- **Cross-server inventory synchronization** — Keep player inventories synced across multiple servers
-- **Cross-server warping** — Seamless teleportation between different server instances  
-- **Custom dungeon mechanics** — Advanced gameplay systems built from the ground up
-
-The technical stack had to be optimized heavily since performance is critical for a smooth player experience. Code remains closed source for obvious reasons.
-
-[🌐 Visit Server](https://minimc.in) • _Closed Source_
-
----
-
-### Web Development Portfolio
-**Tech Stack:** Astro, TypeScript, Tailwind CSS, Node.js
-
-Currently working on a project with **ConfrontAI** (not yet public), but here are some live websites I've built:
-
-**Live Sites:**
-- **[MiniMC](https://minimc.in)** — The Server's official website
-- **[Utilara](https://utilara.net)** — Official website for the Utilara Discord bot and Dashboard
-- **[Utilara Wiki](https://wiki.utilara.net)** — Documentation and knowledge base
-
-Focused on building fast, responsive sites with clean UX. Each site is optimized for performance and mobile-first design.
-
-[📹 Prototype Showcase](https://drive.google.com/file/d/1PRbpootVLtRVRZ_a91zae1JjAfj7uosU/view?usp=sharing)
-
----
-
-## Organizations
-
-**[Perpetual Space](https://github.com/perpetualspace)** — Owner  
-**[MiniMC](https://minimc.in)** — Co-Owner
-
----
-
-## Find me around the web
-
-🌐 [Portfolio](https://www.upwork.com/freelancers/~0196bf9a1fba7cd171)
-
----
-
-## Tech Stack
-
-**Frontend:** Astro • Nuxt.js • TypeScript • JavaScript  
-**Backend:** Node.js • PostgreSQL • MongoDB • Redis  
-**Mobile/Other:** Kotlin • Java • Python • C/C++
-
-**Tools:** VS Code, IntelliJ IDEA, CLion
+</div>
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotIntruder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+## 🚀 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotIntruder&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<table>
+<tr>
+<td>
 
-</div
+```yaml
+name: "Intruder"
+located_in: "Mumbai, India 🏙️"
+does: "Intermediate Software Developer"
+
+company:
+  - Owner: "Perpetual Space"
+  - Co-Owner: "MiniMC"
+
+fields_of_interests:
+  - "Web Development 🌐"
+  - "Software Engineering 💻"
+  - "Open Source Projects 🔓"
+  - "Community Building 👥"
+  
+currently_learning: ["NLP", "Android Developemt [Kotlin]"]
+hobbies: ["Coding", "Gaming", "Music", "Working Out"]
+```
+
+</td>
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏢 Organizations & Projects
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github.com/perpetualspace.png" width="80" height="80" style="border-radius: 50%;">
+<h3>🌌 Perpetual Space</h3>
+<p><strong>Owner</strong></p>
+<a href="https://github.com/perpetualspace" target="_blank">
+<img src="https://img.shields.io/badge/Visit-Organization-brightgreen?style=for-the-badge&logo=github" alt="Perpetual Space">
+</a>
+</td>
+<td align="center" width="50%">
+<img src="https://cdn.discordapp.com/avatars/1375863263434248292/46d9362fe5a386dc1289b1bbd4effc8b.webp?size=1024" width="80" height="80" style="border-radius: 50%;">
+<h3>⚡ MiniMC</h3>
+<p><strong>Co-Owner</strong></p>
+<a href="https://minimc.in" target="_blank">
+<img src="https://img.shields.io/badge/Visit-Website-orange?style=for-the-badge&logo=firefox" alt="MiniMC">
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="http://perpetualspace.me/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/NotIntruder" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<h3>Languages & Frameworks</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,astro,py,kotlin,cpp,nodejs,postgres,mongodb" alt="Tech Stack" />
+</p>
+
+<h3>Development Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotIntruder&theme=tokyonight" alt="GitHub Profile Summary" width="100%">
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=NotIntruder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotIntruder&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotIntruder&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=NotIntruder&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Repository Analytics
+
+<img src="https://repobeats.axiom.co/api/embed/fe196358bd75349ed47ba5c9532b6ffffa586095.svg" alt="Repobeats Analytics" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
