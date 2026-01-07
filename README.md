@@ -98,7 +98,7 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 
 ## 🌐 Connect With Me
 
-<a href="<https://discord.com/users/438387592178827264>" target="_blank">
+<a href="https://discord.com/users/438387592178827264" target="_blank">
 <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=Lightpurple" alt="GitHub"/>
 </a>
 </p>
