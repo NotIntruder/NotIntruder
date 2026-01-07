@@ -98,12 +98,8 @@ hobbies: ["Coding", "Gaming", "Music", "Working Out"]
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="http://perpetualspace.me/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/NotIntruder" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="<https://discord.com/users/438387592178827264>" target="_blank">
+<img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=Lightpurple" alt="GitHub"/>
 </a>
 </p>
 
